@@ -14,14 +14,11 @@ Os pedidos eram registrados manualmente em papel, causando filas, erros e dificu
 ### Frontend
 
 - React
-- Vite
-- Axios
-- React Router
 
 ### Backend
 
 - Node.js
-- Express
+
 
 ### Banco de Dados
 
