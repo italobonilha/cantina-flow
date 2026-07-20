@@ -25,8 +25,7 @@ Os pedidos eram registrados manualmente em papel, causando filas, erros e dificu
 
 ### Banco de Dados
 
-- PostgreSQL
-- Prisma ORM
+- SQLite
 
 ---
 
